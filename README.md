@@ -1,5 +1,4 @@
-# Amazon-Sales-Analytics
-# Amazon Sales Analytics
+# Amazon-Sales-Analytics-BI-Dashboard
 
 ![LOGO](https://github.com/akhilypandey/Amazon-Sales-Analytics/blob/main/amazon_icon.png)
 
