@@ -42,4 +42,4 @@ The interactive report includes the following visual components:
 3.  Interact with the filters (Status, Category, State) on the left panel to slice and dice the data.
 
 ---
-*Project By: Ayush Shukla*
+
