@@ -41,5 +41,8 @@ The interactive report includes the following visual components:
 2.  Open using **Microsoft Power BI Desktop**.
 3.  Interact with the filters (Status, Category, State) on the left panel to slice and dice the data.
 
+## Colours Used
+1. Blue "232F3E"
+2. Orange "FF9900"
 ---
 
