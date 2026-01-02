@@ -4,7 +4,7 @@
 
 # Amazon India Sales Analysis Dashboard 📊
 
-![DASHBOARD](https://github.com/akhilypandey/Amazon-Sales-Analytics/blob/main/image%20IMAGE.png)
+![DASHBOARD](https://github.com/akhilypandey/Amazon-Sales-Analytics/blob/main/image.png)
 
 ## 📖 Project Overview
 This project involves the analysis of a comprehensive Amazon India sales dataset. The goal was to develop an interactive **Power BI Dashboard** that provides actionable insights into sales trends, order fulfillment, and regional performance.
